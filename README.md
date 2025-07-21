@@ -1,3 +1,5 @@
+<!-- PROFILE README -->
+
 <div align="center">
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&size=25&duration=3000&pause=800&center=true&color=F45BA1&vCenter=true&multiline=true&width=800&height=80&lines=Hello+Everyone%2C+I+am+Ashmitha+R...;AI+%7C+Data+%7C+Green+Tech+%7C+Space+Tech+Explorer" alt="Typing SVG" />
@@ -15,8 +17,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL/PLSQL" />
 </p>
 
-
-
 ### 🛠️ Software Tools & Frameworks
 
 <p align="center">
@@ -29,20 +29,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="Numpy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40" alt="Scikit-learn" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" height="40" alt="Seaborn" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-learn" />
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40" alt="Seaborn" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" alt="Keras" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Nltk_logo.png" height="40" alt="NLTK" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Scipy_logo.svg" height="40" alt="SciPy" />
+  <img src="https://raw.githubusercontent.com/explosion/spaCy/master/spacy/logo/icon.png" height="40" alt="spaCy" />
+  <img src="https://avatars.githubusercontent.com/u/139914363?s=200&v=4" height="40" alt="LangChain" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://avatars.githubusercontent.com/u/134466166?s=200&v=4" height="40" alt="Langflow" />
+  <img src="https://avatars.githubusercontent.com/u/162666430?s=200&v=4" height="40" alt="RAG" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="MLOps Azure" />
 </p>
-
-
 
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:ashmitharaja23@gmail.com">
     <img src="https://img.icons8.com/color/28/000000/gmail-new.png"/> Email
   </a> &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/ashmitharaja">
@@ -52,7 +57,6 @@
     <img src="https://img.icons8.com/ios-filled/28/000000/medium-monogram.png"/> Blogs
   </a>
 </p>
-
 
 </div>
 
