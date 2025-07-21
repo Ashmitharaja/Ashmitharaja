@@ -3,8 +3,22 @@
 <h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F76FBF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Ashmitha+Raja;AI+%7C+DS+%7C+PM+%7C+Tech+Explorer" alt="Typing SVG" />
 </h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&size=25&duration=3000&pause=800&center=true&color=F45BA1&vCenter=true&multiline=true&width=800&height=80&lines=Hello+Everyone%2C+I+am+Ashmitha+R...;AI+%7C+Data+%7C+Green+Tech+%7C+Space+Tech+Explorer" alt="Typing SVG" />
+</p>
+<div align="center" style="font-family: Arial Black, Gadget, sans-serif; font-weight: bold; font-size: 19px;">
+  <div class="rainbow-text">
+    <span class="block-line">
+      <span><span>H</span><span>e</span><span>l</span><span>l</span><span>o&nbsp;</span></span>
+      <span><span>E</span><span>v</span><span>e</span><span>r</span><span>y</span><span>o</span><span>n</span><span>e&nbsp;</span></span>
+      <span>!&nbsp;</span><span>I&nbsp;</span>
+      <span><span>a</span><span>m&nbsp;</span></span>
+      <span><span>A</span><span>s</span><span>h</span><span>m</span><span>i</span><span>t</span><span>h</span><span>a&nbsp;</span></span>
+      <span>R&nbsp;</span><span><span>.</span><span>.</span><span>.</span></span>
+    </span>
+  </div>
+</div>
 
----
 
 ### 🚀 Programming Languages
 
@@ -18,7 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL/PLSQL" />
 </p>
 
----
+
 
 ### 🛠️ Software Tools & Frameworks
 
@@ -40,18 +54,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
 </p>
 
----
+
 
 ### 🌐 Connect with Me
 
 <p align="center">
   <a href="mailto:your.email@example.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" height="30" alt="Email" /> Email</a> |
+    <img src="https://img.icons8.com/color/28/000000/gmail-new.png"/> Email
+  </a> &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/ashmitharaja">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" height="30" alt="LinkedIn" /> LinkedIn</a> |
+    <img src="https://img.icons8.com/color/28/000000/linkedin.png"/> LinkedIn
+  </a> &nbsp;|&nbsp;
   <a href="https://medium.com/@ashmitharaja23">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/medium.svg" height="30" alt="Medium" /> Blogs</a>
+    <img src="https://img.icons8.com/ios-filled/28/000000/medium-monogram.png"/> Blogs
+  </a>
 </p>
+
 
 </div>
 
