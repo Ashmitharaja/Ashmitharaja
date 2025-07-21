@@ -34,17 +34,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" alt="Keras" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Nltk_logo.png" height="40" alt="NLTK" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Scipy_logo.svg" height="40" alt="SciPy" />
-  <img src="https://raw.githubusercontent.com/explosion/spaCy/master/spacy/logo/icon.png" height="40" alt="spaCy" />
-  <img src="https://avatars.githubusercontent.com/u/139914363?s=200&v=4" height="40" alt="LangChain" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img src="https://avatars.githubusercontent.com/u/134466166?s=200&v=4" height="40" alt="Langflow" />
-  <img src="https://avatars.githubusercontent.com/u/162666430?s=200&v=4" height="40" alt="RAG" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="MLOps Azure" />
 </p>
 
-### 🌐 Connect with Me
+### 🌐 Connect With Me On
 
 <p align="center">
   <a href="mailto:ashmitharaja23@gmail.com">
