@@ -1,10 +1,54 @@
 <div align="center">
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=F700FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Ashmitha+R.;AI+%26+DS+Student+%7C+Tech+Explorer+%7C+Coding+%26+Design+Enthusiast" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&size=25&duration=3000&pause=800&center=true&color=F45BA1&vCenter=true&multiline=true&width=800&height=80&lines=Hello+Everyone%2C+I+am+Ashmitha+R...;AI+%7C+Data+%7C+Green+Tech+%7C+Space+Tech+Explorer" alt="Typing SVG" />
+</p>
 
----
+<p align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.icons8.com/color/28/000000/gmail-new.png"/> Email
+  </a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/ashmitharaja">
+    <img src="https://img.icons8.com/color/28/000000/linkedin.png"/> LinkedIn
+  </a> &nbsp;|&nbsp;
+  <a href="https://medium.com/@ashmitharaja23">
+    <img src="https://img.icons8.com/ios-filled/28/000000/medium-monogram.png"/> Blogs
+  </a>
+</p>
+
+<div align="center" style="font-family: Arial Black, Gadget, sans-serif; font-weight: bold; font-size: 19px;">
+  <div class="rainbow-text">
+    <span class="block-line">
+      <span><span>H</span><span>e</span><span>l</span><span>l</span><span>o&nbsp;</span></span>
+      <span><span>E</span><span>v</span><span>e</span><span>r</span><span>y</span><span>o</span><span>n</span><span>e&nbsp;</span></span>
+      <span>!&nbsp;</span><span>I&nbsp;</span>
+      <span><span>a</span><span>m&nbsp;</span></span>
+      <span><span>A</span><span>s</span><span>h</span><span>m</span><span>i</span><span>t</span><span>h</span><span>a&nbsp;</span></span>
+      <span>R&nbsp;</span><span><span>.</span><span>.</span><span>.</span></span>
+    </span>
+  </div>
+</div>
+
+<style>
+  .rainbow-text {
+      font-family: Arial Black, Gadget, sans-serif;
+      text-align: center;
+      font-weight: bold;
+      font-size: 19px;
+  }
+  .rainbow-text .block-line > span {
+      display: inline-block;
+  }
+  span.block-line > span {
+      background-image: linear-gradient(90deg,#ff00cc,#cc00ff,#9900ff,#6600cc,#330099,#000066,#330099,#6600cc,#9900ff,#cc00ff,#ff00cc);
+      color: transparent;
+      -webkit-background-clip: text;
+      background-clip: text;
+  }
+</style>
+
+
+
 
 ###  Programming Languages
 
@@ -18,7 +62,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="SQL"/>
 </p>
 
----
+
 
 ###  Software & Tools
 
@@ -33,7 +77,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHPMyAdmin"/>
 </p>
 
----
+
 
 ###  Libraries & Frameworks
 
@@ -51,20 +95,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="40" title="Streamlit"/>
 </p>
 
----
+
 
 ###  Projects
 
 Stay tuned! Projects coming soon...
 
----
+
 
 ###  Contact Me
 
 <p align="center">
-  <a href="mailto:your.email@example.com">Email</a> |
-  <a href="https://www.linkedin.com/in/your-linkedin">LinkedIn</a> |
-  <a href="https://your-portfolio.com">Portfolio</a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" height="30" alt="Email" /> Email</a> |
+  <a href="https://www.linkedin.com/in/ashmitharaja">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" height="30" alt="LinkedIn" /> LinkedIn</a> |
+  <a href="https://medium.com/@ashmitharaja23">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/medium.svg" height="30" alt="Medium" /> Blogs</a>
 </p>
 
 </div>
