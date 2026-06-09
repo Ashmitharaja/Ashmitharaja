@@ -1,16 +1,19 @@
 
 <!-- GITHUB PROFILE README -->
 <div align="center">
-# Ashmitha R
-### Computer Science & Mathematics Engineer cum Researcher 
-#### Ex-Intern NIT Trichy
-#### Ex-Intern IIT Madras Research Park
-#### Ex-Intern Type 1 Compute (Stanford System-X Alliance)
+  
+## Ashmitha R
+  
+## Computer Science & Mathematics Engineer cum Researcher 
+## Ex-Intern NIT Trichy
+## Ex-Intern IIT Madras Research Park
+## Ex-Intern Type 1 Compute (Stanford System-X Alliance)
 <br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Ashmitharaja&theme=flat&no-frame=true&margin-w=10&row=1&column=6" />
 
 </div>
+
 ##  Programming Languages
 
 <p align="center">
@@ -79,7 +82,6 @@
 
 <div align="center">
 
-### Research • Engineering • Innovation • Mathematics
 
 </div>
 
