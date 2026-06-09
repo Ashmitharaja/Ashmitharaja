@@ -1,4 +1,4 @@
-```html
+
 <!-- GITHUB PROFILE README -->
 
 <div align="center">
@@ -116,7 +116,7 @@
 ### Research • Engineering • Innovation • Mathematics
 
 </div>
-```
+
 
 
 
