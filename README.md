@@ -8,8 +8,6 @@
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ashmitharaja&theme=flat&no-frame=true&margin-w=10&row=1&column=6" />
-
 </div>
 
 ##  Programming Languages
