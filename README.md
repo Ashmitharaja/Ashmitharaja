@@ -1,58 +1,123 @@
-<!-- PROFILE README -->
+```html
+<!-- GITHUB PROFILE README -->
 
 <div align="center">
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&size=25&duration=3000&pause=800&center=true&color=F45BA1&vCenter=true&multiline=true&width=800&height=80&lines=Hello+Everyone%2C+I+am+Ashmitha+R..." alt="Typing SVG" />
-</p>
 
-### 🚀 Programming Languages
+# Ashmitha R
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL/PLSQL" />
-</p>
+### Computer Science Engineer | AI Researcher | Machine Learning Engineer
 
-### 🛠️ Software Tools & Frameworks
+#### Ex-Intern — NIT Trichy
+#### Ex-Intern — IIT Madras Research Park
+#### Ex-Intern — Type 1 Compute (Stanford System-X Alliance)
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="Matlab" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" height="40" alt="Google Colab" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="Numpy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-learn" />
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40" alt="Seaborn" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" alt="Keras" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="MLOps Azure" />
-</p>
+<br>
 
-### 🌐 Connect With Me On
-
-<p align="center">
-  <a href="mailto:ashmitharaja23@gmail.com">
-    <img src="https://img.icons8.com/color/28/000000/gmail-new.png"/> Email
-  </a> &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/ashmitharaja">
-    <img src="https://img.icons8.com/color/28/000000/linkedin.png"/> LinkedIn
-  </a> &nbsp;|&nbsp;
-  <a href="https://medium.com/@ashmitharaja23">
-    <img src="https://img.icons8.com/ios-filled/28/000000/medium-monogram.png"/> Blogs
-  </a>
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=Ashmitharaja&theme=flat&no-frame=true&margin-w=10&row=1&column=6" />
 
 </div>
+
+---
+
+## 👩‍💻 Programming Languages
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" />
+</p>
+
+---
+
+## ⚙️ AI, Data Science & Engineering Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
+</p>
+
+---
+
+## 🛠 Development & Research Tools
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45"/>
+</p>
+
+---
+
+## 🏆 Achievements & Recognition
+
+🥇 Winner — Independence Day English Oratory Contest, Sri Ramakrishna Engineering College (2024)
+
+🏅 Honoured to Represent Tamil Nadu in Speak for India 2023–2024, conducted by The Times Group & Federal Bank
+
+🥈 1st Runner-Up — Inter-College Ideation Contest, SREC CoIN (Collaborative Innovation Center)
+
+🚀 Finalist — 24 Hours IIC MHRD Hackathon, CARE Engineering College, Trichy (2025)
+
+🌟 Finalist — TNWISE 2025 (Tamil Nadu's Largest Hackathon for Women in Science & Engineering)
+
+---
+
+## 📚 Areas of Interest
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Optimization Algorithms
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Medical AI
+- Mathematical Modeling
+- Computational Intelligence
+- Data Science
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:ashmitharaja23@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ashmitharaja">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://medium.com/@ashmitharaja23">
+<img src="https://img.shields.io/badge/Medium-Blogs-black?style=for-the-badge&logo=medium"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### Research • Engineering • Innovation • Mathematics
+
+</div>
+```
+
 
 
 
