@@ -2,7 +2,7 @@
 
 <div align="center">
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&size=25&duration=3000&pause=800&center=true&color=F45BA1&vCenter=true&multiline=true&width=800&height=80&lines=Hello+Everyone%2C+I+am+Ashmitha+R...;AI+%7C+Data+%7C+Green+Tech+%7C+Space+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&size=25&duration=3000&pause=800&center=true&color=F45BA1&vCenter=true&multiline=true&width=800&height=80&lines=Hello+Everyone%2C+I+am+Ashmitha+R..." alt="Typing SVG" />
 </p>
 
 ### 🚀 Programming Languages
