@@ -1,25 +1,17 @@
 
 <!-- GITHUB PROFILE README -->
-
 <div align="center">
-
 # Ashmitha R
-
-### Computer Science Engineer | AI Researcher | Machine Learning Engineer
-
-#### Ex-Intern — NIT Trichy
-#### Ex-Intern — IIT Madras Research Park
-#### Ex-Intern — Type 1 Compute (Stanford System-X Alliance)
-
+### Computer Science & Mathematics Engineer cum Researcher 
+#### Ex-Intern NIT Trichy
+#### Ex-Intern IIT Madras Research Park
+#### Ex-Intern Type 1 Compute (Stanford System-X Alliance)
 <br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Ashmitharaja&theme=flat&no-frame=true&margin-w=10&row=1&column=6" />
 
 </div>
-
----
-
-## 👩‍💻 Programming Languages
+##  Programming Languages
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" />
@@ -31,9 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" />
 </p>
 
----
-
-## ⚙️ AI, Data Science & Engineering Stack
+##  AI, Data Science & Engineering Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
@@ -48,9 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
 </p>
 
----
-
-## 🛠 Development & Research Tools
+##  Development & Research Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="45"/>
@@ -60,38 +48,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45"/>
 </p>
 
----
-
-## 🏆 Achievements & Recognition
-
-🥇 Winner — Independence Day English Oratory Contest, Sri Ramakrishna Engineering College (2024)
-
-🏅 Honoured to Represent Tamil Nadu in Speak for India 2023–2024, conducted by The Times Group & Federal Bank
-
-🥈 1st Runner-Up — Inter-College Ideation Contest, SREC CoIN (Collaborative Innovation Center)
-
-🚀 Finalist — 24 Hours IIC MHRD Hackathon, CARE Engineering College, Trichy (2025)
-
-🌟 Finalist — TNWISE 2025 (Tamil Nadu's Largest Hackathon for Women in Science & Engineering)
-
----
-
-## 📚 Areas of Interest
-
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Optimization Algorithms
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Medical AI
-- Mathematical Modeling
-- Computational Intelligence
-- Data Science
-
----
-
-## 🌐 Connect With Me
+##  Achievements & Recognition
+ 1. Winner — Independence Day English Oratory Contest, Sri Ramakrishna Engineering College (2024)
+ 2. Honoured to Represent Tamil Nadu in Speak for India 2023–2024, conducted by The Times Group & Federal Bank
+ 3. 1st Runner-Up — Inter-College Ideation Contest, SREC CoIN (Collaborative Innovation Center)
+ 4. Finalist — 24 Hours IIC MHRD Hackathon, CARE Engineering College, Trichy (2025)
+ 5. Finalist — TNWISE 2025 (Tamil Nadu's Largest Hackathon for Women in Science & Engineering)
+ 
+##  Connect With Me
 
 <p align="center">
 
@@ -107,9 +71,11 @@
 <img src="https://img.shields.io/badge/Medium-Blogs-black?style=for-the-badge&logo=medium"/>
 </a>
 
-</p>
+<a href="https://x.com/ashmi_voices?t=-2XwgEiIW_bV6kbx3orpZA&s=09">
+<img src="https://img.shields.io/badge/X-@ashmi__voices-black?style=for-the-badge&logo=x"/>
+</a>
 
----
+</p>
 
 <div align="center">
 
