@@ -74,6 +74,10 @@
 <img src="https://img.shields.io/badge/X-@ashmi__voices-black?style=for-the-badge&logo=x"/>
 </a>
 
+<a href="https://www.instagram.com/ashmi.234?igsh=MWIxMXkwemhzM3NmaA==">
+<img src="https://img.shields.io/badge/Instagram-Connect-pink?style=for-the-badge&logo=Instagram"/>
+</a>
+
 </p>
 
 <div align="center">
